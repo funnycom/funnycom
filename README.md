@@ -1,10 +1,10 @@
 # 실습 파일 다운로드 📫
 
-Do it! 모던 자바스크립트</br>프로그래밍의 정석 | Do it! 자바스크립트 입문 | Do it! HTML + CSS + </br> 자바스크립트웹 표준의 정석 |  Do it! HTML5+CSS3 </br>웹 표준의 정석
--- | --- | -- | -- 
-![mordern js](https://user-images.githubusercontent.com/5915404/204072635-579eb9db-5edf-43d4-a30d-a4c63984c796.jpg) | ![js](https://user-images.githubusercontent.com/5915404/204072616-1b254726-22ef-4062-8d14-c876e89b11a5.jpg) | ![H+C+J](https://user-images.githubusercontent.com/5915404/204072603-7b8b2fec-7db2-4527-b035-757559d1340b.jpg) | ![H+C](https://user-images.githubusercontent.com/5915404/204072585-1e6c0055-796e-4e8c-8b24-f8856c453b1f.jpg) | 
-[실습 파일 다운로드](https://github.com/funnycom/doit-js) | [실습 파일 다운로드](https://github.com/funnycom/js-basic-new) | [실습 파일 다운로드](https://github.com/Eun-Sook-Kim/doit_html_css_javascript) | [실습 파일 다운로드](https://github.com/funnycom/html5-css3)
-[강의 동영상](https://www.youtube.com/watch?v=6YEpsy3DneQ&list=PLG7te9eYUi7s7scDJhxECJAvg1OPbvb3p) | [강의 동영상](https://www.youtube.com/watch?v=Y-isLP_aW4Q&list=PLG7te9eYUi7uNO8EPbpdr09SEUn2AcCqM) | [강의 동영상](https://www.youtube.com/watch?v=XdFWx0lO5B4&list=PLG7te9eYUi7tS_nx58Z1Zi9Iqt0JEQ1Is) | [강의 동영상](https://www.youtube.com/watch?v=bYgCtRqfi7o&list=PLG7te9eYUi7sxAaXX74J6lqiV8vtStuLr)
+Do it! </br>Node.js</br>프로그래밍 입문 | Do it! </br>모던 자바스크립트</br>프로그래밍의 정석 | Do it! </br>자바스크립트 입문 | Do it! </br>HTML + CSS + </br>자바스크립트</br>웹 표준의 정석 |  Do it! </br>HTML5+CSS3 </br>웹 표준의 정석
+-- | --- | -- | -- | ---
+![node](https://github.com/funnycom/funnycom/assets/5915404/7cecc36d-92a9-4e52-967b-847364faf4a3) | ![mordern js](https://user-images.githubusercontent.com/5915404/204072635-579eb9db-5edf-43d4-a30d-a4c63984c796.jpg) | ![js](https://user-images.githubusercontent.com/5915404/204072616-1b254726-22ef-4062-8d14-c876e89b11a5.jpg) | ![H+C+J](https://user-images.githubusercontent.com/5915404/204072603-7b8b2fec-7db2-4527-b035-757559d1340b.jpg) | ![H+C](https://user-images.githubusercontent.com/5915404/204072585-1e6c0055-796e-4e8c-8b24-f8856c453b1f.jpg) | 
+[실습 파일 다운로드](https://github.com/funnycom/doit-node) | [실습 파일 다운로드](https://github.com/funnycom/doit-js) | [실습 파일 다운로드](https://github.com/funnycom/js-basic-new) | [실습 파일 다운로드](https://github.com/Eun-Sook-Kim/doit_html_css_javascript) | [실습 파일 다운로드](https://github.com/funnycom/html5-css3)
+[강의 동영상](https://www.youtube.com/playlist?list=PLG7te9eYUi7vxSvo6hvhOaht8oP0PoCwi) | [강의 동영상](https://www.youtube.com/watch?v=6YEpsy3DneQ&list=PLG7te9eYUi7s7scDJhxECJAvg1OPbvb3p) | [강의 동영상](https://www.youtube.com/watch?v=Y-isLP_aW4Q&list=PLG7te9eYUi7uNO8EPbpdr09SEUn2AcCqM) | [강의 동영상](https://www.youtube.com/watch?v=XdFWx0lO5B4&list=PLG7te9eYUi7tS_nx58Z1Zi9Iqt0JEQ1Is) | [강의 동영상](https://www.youtube.com/watch?v=bYgCtRqfi7o&list=PLG7te9eYUi7sxAaXX74J6lqiV8vtStuLr)
 
 
 <!--
