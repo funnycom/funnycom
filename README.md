@@ -7,11 +7,11 @@
 | [강의 동영상] | [강의 동영상](https://www.youtube.com/playlist?list=PLG7te9eYUi7vxSvo6hvhOaht8oP0PoCwi) | [강의 동영상](https://www.youtube.com/watch?v=6YEpsy3DneQ&list=PLG7te9eYUi7s7scDJhxECJAvg1OPbvb3p) | [강의 동영상](https://www.youtube.com/watch?v=XdFWx0lO5B4&list=PLG7te9eYUi7tS_nx58Z1Zi9Iqt0JEQ1Is)  |
 
 
-| Do it! 자바스크립트 입문 | Do it! HTML+CSS</br>웹 표준의 정석(개정2판) |  
+| Do it! 자바스크립트 입문 | Do it! HTML+CSS</br>웹 표준의 정석(개정3판) |  
 | --- | --- |
-| [![js](https://user-images.githubusercontent.com/5915404/204072616-1b254726-22ef-4062-8d14-c876e89b11a5.jpg)](https://www.yes24.com/Product/Goods/104803061) | [![hc](https://github.com/user-attachments/assets/d9cc244a-e976-4411-90fb-a75786803347)](https://www.yes24.com/Product/Goods/85112155) |
+| [![js](https://user-images.githubusercontent.com/5915404/204072616-1b254726-22ef-4062-8d14-c876e89b11a5.jpg)](https://www.yes24.com/Product/Goods/104803061) | [![hc](https://github.com/user-attachments/assets/f552ecda-9a29-44f4-9713-d549395517e9)](https://www.yes24.com/Product/Goods/85112155) |
 | [실습 파일 다운로드](https://github.com/funnycom/js-basic-new) | [실습 파일 다운로드](https://github.com/funnycom/html5-css3) |
-| [강의 동영상](https://www.youtube.com/watch?v=Y-isLP_aW4Q&list=PLG7te9eYUi7uNO8EPbpdr09SEUn2AcCqM) | [강의 동영상](https://www.youtube.com/watch?v=bYgCtRqfi7o&list=PLG7te9eYUi7sxAaXX74J6lqiV8vtStuLr)  |
+| [강의 동영상](https://www.youtube.com/watch?v=Y-isLP_aW4Q&list=PLG7te9eYUi7uNO8EPbpdr09SEUn2AcCqM) | [강의 동영상](https://www.youtube.com/watch?v=lqPvUwZ1ZIQ&list=PLG7te9eYUi7v3uNsKfYmyJ0C9N6w_htJO)  |
 
 
 
